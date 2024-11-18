@@ -1,95 +1,103 @@
 #EXTM3U
-#EXTINF:-1,ABE Educativo
-http://181.115.196.226:8000/play/a00r/index.m3u8
-#EXTINF:-1,ABE Tv
-http://181.115.196.226:8000/play/a00y/index.m3u8
-#EXTINF:-1,ATB
-http://181.115.196.226:8000/play/a00t/index.m3u8
-#EXTINF:-1,Abya Yala Tv
-http://181.115.196.226:8000/play/a00o/index.m3u8
-#EXTINF:-1,Agenda Minera
-http://181.115.196.226:8000/play/a00h/index.m3u8
-#EXTINF:-1,Ayni TV
-http://181.115.196.226:8000/play/a01r/index.m3u8
-#EXTINF:-1,BTV
-http://181.115.196.226:8000/play/a011/index.m3u8
-#EXTINF:-1,Bolivia TV7.2
-http://181.115.196.226:8000/play/a001/index.m3u8
-#EXTINF:-1,Bolivision
-http://181.115.196.226:8000/play/a00l/index.m3u8
-#EXTINF:-1,CADENA A HD
-http://181.115.196.226:8000/play/a00m/index.m3u8
-#EXTINF:-1,CTV
-http://181.115.196.226:8000/play/a006/index.m3u8
-#EXTINF:-1,Cinerama TV
-http://181.115.196.226:8000/play/a00k/index.m3u8
-#EXTINF:-1,DTV
-http://181.115.196.226:8000/play/a00n/index.m3u8
-#EXTINF:-1,EGPP 360
-http://181.115.196.226:8000/play/a00g/index.m3u8
-#EXTINF:-1,ENTEL TV HD
-http://181.115.196.226:8000/play/a01m/index.m3u8
-#EXTINF:-1,F 10
-http://181.115.196.226:8000/play/a005/index.m3u8
-#EXTINF:-1,FAP TV
-http://181.115.196.226:8000/play/a01o/index.m3u8
-#EXTINF:-1,Giga Vision
-http://181.115.196.226:8000/play/a00j/index.m3u8
-#EXTINF:-1,GogoplayTV
-http://181.115.196.226:8000/play/a01e/index.m3u8
-#EXTINF:-1,IN Tv
-http://181.115.196.226:8000/play/a01q/index.m3u8
-#EXTINF:-1,PAT
-http://181.115.196.226:8000/play/a00e/index.m3u8
-#EXTINF:-1,Palenque Tv
-http://181.115.196.226:8000/play/a00a/index.m3u8
-#EXTINF:-1,Plus Tlt Tarija
-http://181.115.196.226:8000/play/a008/index.m3u8
-#EXTINF:-1,Poder de Dios
-http://181.115.196.226:8000/play/a00x/index.m3u8
-#EXTINF:-1,RA Television
-http://181.115.196.226:8000/play/a01d/index.m3u8
-#EXTINF:-1,RED SIGLO XXI - Tv
-http://181.115.196.226:8000/play/a00c/index.m3u8
-#EXTINF:-1,RT
-http://181.115.196.226:8000/play/a00u/index.m3u8
-#EXTINF:-1,RTP
-http://181.115.196.226:8000/play/a016/index.m3u8
-#EXTINF:-1,RTP
-http://181.115.196.226:8000/play/a00p/index.m3u8
-#EXTINF:-1,Red Advenir
-http://181.115.196.226:8000/play/a00v/index.m3u8
-#EXTINF:-1,Red America Tv
-http://181.115.196.226:8000/play/a00i/index.m3u8
-#EXTINF:-1,Red UNO Lpz
-http://181.115.196.226:8000/play/a003/index.m3u8
-#EXTINF:-1,Red UNO Scz
-http://181.115.196.226:8000/play/a002/index.m3u8
-#EXTINF:-1,SEO TV 1 HD
-http://181.115.196.226:8000/play/a00w/index.m3u8
-#EXTINF:-1,Sitel Potosi
-http://181.115.196.226:8000/play/a00f/index.m3u8
-#EXTINF:-1,TELE 6 Internacional
-http://181.115.196.226:8000/play/a01n/index.m3u8
-#EXTINF:-1,TV Culturas
-http://181.115.196.226:8000/play/a013/index.m3u8
-#EXTINF:-1,TV Universitaria
-http://181.115.196.226:8000/play/a017/index.m3u8
-#EXTINF:-1,TVU PANDO
-http://181.115.196.226:8000/play/a007/index.m3u8
-#EXTINF:-1,TVU SUCRE UNIVERSIDAD SAN FRANCISCO XAVIER
-http://181.115.196.226:8000/play/a009/index.m3u8
-#EXTINF:-1,Tele Estrella HD
-http://181.115.196.226:8000/play/a004/index.m3u8
-#EXTINF:-1,Tv Nuevo Tiempo
-http://181.115.196.226:8000/play/a00q/index.m3u8
-#EXTINF:-1,Tv OFF
-http://181.115.196.226:8000/play/a00s/index.m3u8
-#EXTINF:-1,UNITEL-LPZ
-http://181.115.196.226:8000/play/a00z/index.m3u8
-#EXTINF:-1,UNITEL-SCZ
-http://181.115.196.226:8000/play/a015/index.m3u8
-#EXTINF:-1,VOS TV HD
-http://181.115.196.226:8000/play/a00b/index.m3u8
-#EXTINF:-1,Zuraca TV
-http://181.115.196.226:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="-",ABE Educativo
+http://200.105.196.70:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="-",ABE Tv
+http://200.105.196.70:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="-",ATB HD
+http://200.105.196.70:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="-",Abya Yala Tv
+http://200.105.196.70:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="-",Agenda Minera
+http://200.105.196.70:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="-",Ayni TV
+http://200.105.196.70:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="-",BTV
+http://200.105.196.70:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="-",Bolivia Tv HD
+http://200.105.196.70:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="-",Bolivision HD
+http://200.105.196.70:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="-",CTV
+http://200.105.196.70:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="-",Cadena A HD
+http://200.105.196.70:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="-",Cinerama Tv
+http://200.105.196.70:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="-",DTV
+http://200.105.196.70:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="-",EGPP Tv
+http://200.105.196.70:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="-",ENTEL TV PLUS HD
+http://200.105.196.70:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="-",F 10
+http://200.105.196.70:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="-",FAP Tv
+http://200.105.196.70:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="-",Giga Vision HD
+http://200.105.196.70:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="-",Gogoplay Tv
+http://200.105.196.70:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="-",IVC
+http://200.105.196.70:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="-",PAT
+http://200.105.196.70:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="-",PTV LP HD
+http://200.105.196.70:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="-",Palenque Tv
+http://200.105.196.70:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="-",Plus Tlt Tarija
+http://200.105.196.70:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="-",Poder de Dios
+http://200.105.196.70:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="-",RA Television
+http://200.105.196.70:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="-",RED SIGLO XXI
+http://200.105.196.70:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="-",RT
+http://200.105.196.70:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="-",RTP
+http://200.105.196.70:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="-",RTP 2
+http://200.105.196.70:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="-",Red Advenir
+http://200.105.196.70:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="-",Red America Tv
+http://200.105.196.70:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="-",Red Uno LPZ HD
+http://200.105.196.70:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="-",Red Uno SCZ HD
+http://200.105.196.70:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="-",SEO TV
+http://200.105.196.70:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="-",Sitel Potosi
+http://200.105.196.70:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="-",TV Culturas
+http://200.105.196.70:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="-",TV OFF
+http://200.105.196.70:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="-",TV Universitaria
+http://200.105.196.70:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="-",TVU Pando
+http://200.105.196.70:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="-",TVU Sucre
+http://200.105.196.70:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="-",Tele Estrella
+http://200.105.196.70:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="-",Tele Estrella 2
+http://200.105.196.70:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="-",Tele6 Internacional
+http://200.105.196.70:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="-",Tv Nuevo Tiempo
+http://200.105.196.70:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="-",UNITEL-LPZ
+http://200.105.196.70:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="-",UNITEL-SCZ
+http://200.105.196.70:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="-",UNIVALLE TV HD
+http://200.105.196.70:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="-",VOS Tv
+http://200.105.196.70:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="-",XTO TV
+http://200.105.196.70:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="-",Zuraca TV
+http://200.105.196.70:8000/play/a00o/index.m3u8
